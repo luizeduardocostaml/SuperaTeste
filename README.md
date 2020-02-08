@@ -1,7 +1,7 @@
 # Supera Teste
 Lista de algoritmos propostos pela empresa Supera.
 
-##Algoritmos
+## Algoritmos
 * Questão 1: Ano Bissexto ou Ano não Bissexto.
 * Questão 2: Criptografia.
 * Questão 3: Sort! Sort!! e Sort!!!.
@@ -10,5 +10,5 @@ Lista de algoritmos propostos pela empresa Supera.
 
 Todos os algoritmos podem ser encontrados no [URI - Online Judge](www.urionlinejudge.com.br/).
 
-##Detalhes
+## Detalhes
 Todos os algoritmos acompanham exemplos de entradas e alguns comentários, por convenção estão em inglês.
